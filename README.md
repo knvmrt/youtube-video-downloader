@@ -26,6 +26,6 @@ python main.py
 
 <br>
 
-### 🤗 **And follow me please.** [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/knvmrt)
+## 🤗 **And follow me please.**[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/knvmrt)
 
 
